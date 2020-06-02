@@ -20,7 +20,7 @@ Hey, my name is [Kyle](https://github.com/AtkinsonKyle), and I'm in the new 102 
 - **this text is _important_**
 - ***"`***`"  is bold and italicized***
 - "`~~`" ~~is deleted~~
-  - * *"`* *`"  is italic*
+  -* *"`* *`"  is italic*
   - **"`**`"  is bold**
 + more bullet
 + points, but with
