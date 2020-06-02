@@ -16,7 +16,7 @@ Hey, I'm Kyle!
 - `###` level three heading
 
 
-### Bulleted List (one way)
+### Multiple Bullets, One List
 - this
 - is
 - bulleted
