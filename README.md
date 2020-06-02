@@ -11,9 +11,10 @@ Hey, I'm Kyle!
 
 
 ## Markdown Notes
+> Markdown is a light weight markup language for authoring readable, functional code on the fly
 - `#` level one heading
 - `###` level three heading
-> Markdown is a light weight markup language for authoring readable, functional code on the fly
+
 
 ### Bulleted List (one way)
 - this
