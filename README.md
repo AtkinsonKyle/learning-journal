@@ -14,7 +14,7 @@ A growth mindset is one that is always learning! Making mistakes doesn't have to
 
 
 ## Markdown Notes
-> Markdown is a light weight markup language for authoring readable, functional code on the fly
+Markdown is a light weight markup language for authoring readable, functional code on the fly
 - "`#`"  level one heading
 - "`###`"  level three heading
 
