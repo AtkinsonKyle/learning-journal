@@ -1,8 +1,11 @@
 # Kyle's Repository of Learning
 Hey, my name is [Kyle](https://github.com/AtkinsonKyle), and I'm in the new 102 class at Code Fellows. My goal is to learn as much as possible so I can become fluent in multiple languages! 
 
+> "Every champion was once a contender who refused to give up." <br>
+      -Rocky Balboa
+
 ## Growth Mindset
-> A growth mindset is one that is always learning! Making mistakes doesn't have to be a bad thing, it should encourage you to keep charging forward.
+A growth mindset is one that is always learning! Making mistakes doesn't have to be a bad thing, it should encourage you to keep charging forward.
 
 ### Keeping myself in a growth mindset
 1. Keep trying until I get it right.
