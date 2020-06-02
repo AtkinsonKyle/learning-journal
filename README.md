@@ -16,14 +16,14 @@ Hey, my name is [Kyle](https://github.com/AtkinsonKyle), and I'm in the new 102 
 - `###` level three heading
 
 
-## Multiple Bullets, One List
-- this
-- is
-- bulleted
-  - subpoints
-  - whoo!
+### Multiple Bullets, One List
+- **this text is _important_*
+- *** `***` is bold and italicized***
+- ~~`~~` is deleted~~
+  - * *`* *` is italic* *
+  - **`**` is bold**
 + more bullet
-+ points with
++ points, but with
 + plus signs
 
 [Check out my new Github link!](https://github.com/AtkinsonKyle/learning-journal)
