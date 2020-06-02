@@ -1,5 +1,5 @@
-# Kyle's Learning Journal
-Hey, I'm Kyle, I'm in the new 102 class at Code Fellows. My new Github link is: https://github.com/AtkinsonKyle/learning-journal
+# Kyle's Repository of Learning
+Hey, I'm Kyle, I'm in the new 102 class at Code Fellows. My goal is to learn as much as possible so I can become fluent in multiple languages! 
 
 ## Growth Mindset
 > A growth mindset is one that is always learning! Making mistakes doesn't have to be a bad thing, it should encourage you to keep charging forward.
@@ -25,3 +25,6 @@ Hey, I'm Kyle, I'm in the new 102 class at Code Fellows. My new Github link is: 
 + more bullet
 + points with
 + plus signs
+
+Check out my new Github link!
+https://github.com/AtkinsonKyle/learning-journal
