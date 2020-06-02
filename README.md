@@ -23,13 +23,10 @@ Markdown is a light weight markup language for authoring readable, functional co
 - **this text is _important_**
 - ***"`***`"  is bold and italicized***
 - "`~~`" ~~is deleted~~
-  - "`* *`"  *is italic* 
-  - **"`**`"  is bold**
-+ more bullet
-+ points, but with
-+ plus signs
+- "`* *`"  *is italic* 
+- **"`**`"  is bold**
 
-[Check out my new Github link!](https://github.com/AtkinsonKyle/learning-journal)
+[Check out what I've learned!](https://github.com/AtkinsonKyle/learning-journal)
 
 <pre><address>
 Created by World Health Organization
