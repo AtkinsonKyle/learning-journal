@@ -30,3 +30,10 @@ Markdown is a light weight markup language for authoring readable, functional co
 + plus signs
 
 [Check out my new Github link!](https://github.com/AtkinsonKyle/learning-journal)
+
+<pre><address>
+Created by World Health Organization
+Copyright @2020
+1725 Slough Drive
+Scranton, PA, 18505
+</address></pre>
