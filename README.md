@@ -7,7 +7,7 @@ Hey, I'm [Kyle](https://github.com/AtkinsonKyle), I'm in the new 102 class at Co
 ### Keeping myself in a growth mindset
 1. Keep trying until I get it right.
 1. I should learn something new everyday.
-1. Success is the journey, not the destination.
+1. Always remember, success is the journey, not the destination.
 
 
 ## Markdown Notes
