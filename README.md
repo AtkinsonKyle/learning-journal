@@ -23,7 +23,7 @@ Markdown is a light weight markup language for authoring readable, functional co
 - **this text is _important_**
 - ***"`***`"  is bold and italicized***
 - "`~~`" ~~is deleted~~
-  - "`* *`"  * *is italic* 
+  - "`* *`"  *is italic* 
   - **"`**`"  is bold**
 + more bullet
 + points, but with
