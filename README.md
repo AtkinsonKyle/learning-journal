@@ -1,2 +1,2 @@
-# learning-journal
-Kyle's Learning Journal
+# Kyle's Learning Journal
+
