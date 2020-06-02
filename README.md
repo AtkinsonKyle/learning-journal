@@ -1,5 +1,5 @@
 # Kyle's Repository of Learning
-Hey, I'm [Kyle](https://github.com/AtkinsonKyle), I'm in the new 102 class at Code Fellows. My goal is to learn as much as possible so I can become fluent in multiple languages! 
+Hey, my name is [Kyle](https://github.com/AtkinsonKyle), and I'm in the new 102 class at Code Fellows. My goal is to learn as much as possible so I can become fluent in multiple languages! 
 
 ## Growth Mindset
 > A growth mindset is one that is always learning! Making mistakes doesn't have to be a bad thing, it should encourage you to keep charging forward.
@@ -16,7 +16,7 @@ Hey, I'm [Kyle](https://github.com/AtkinsonKyle), I'm in the new 102 class at Co
 - `###` level three heading
 
 
-### Multiple Bullets, One List
+## Multiple Bullets, One List
 - this
 - is
 - bulleted
