@@ -20,6 +20,6 @@ Hey, I'm Kyle!
 - bulleted
   - subpoints
   - whoo!
-+ bullet points
-+ with
++ more bullet
++ points with
 + plus signs
