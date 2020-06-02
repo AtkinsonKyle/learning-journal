@@ -1,6 +1,8 @@
 # Kyle's Repository of Learning
 Hey, my name is [Kyle](https://github.com/AtkinsonKyle), and I'm in the new 102 class at Code Fellows. My goal is to learn as much as possible so I can become fluent in multiple languages! 
 
+![My Face](https://avatars3.githubusercontent.com/u/66214343?s=460&u=b13bce253b01480630635e889a1c40494d154862&v=4)
+
 > "Every champion was once a contender who refused to give up." <br>
       -Rocky Balboa
 
