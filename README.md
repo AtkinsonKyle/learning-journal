@@ -1,5 +1,5 @@
 # Kyle's Learning Journal
-Hey, I'm Kyle! 
+Hey, I'm Kyle, I'm in the new 102 class at Code Fellows. My new Github link is: https://github.com/AtkinsonKyle/learning-journal
 
 ## Growth Mindset
 > A growth mindset is one that is always learning! Making mistakes doesn't have to be a bad thing, it should encourage you to keep charging forward.
