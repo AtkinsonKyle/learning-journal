@@ -1,5 +1,5 @@
 # Text Editors
-> Ideal for writing code, a text editor is a piece of software that you download on your computer, or you access through a web browser, that allows you to write in order to build a web site.
+> Ideal for writing code, a text editor is a piece of software that you download on your computer, or you access through a web browser, that allows you to write in order to build a web site. Software developers need to choose the correct text editor for their task. Depending on the tools, they each can provide different benefits for a coder. 
 
 ## Great Features of Different Text Editors
 - **Code completion** allows you to start typing, and displays possible suggestions based on what you type.
