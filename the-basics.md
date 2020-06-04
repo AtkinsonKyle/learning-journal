@@ -37,5 +37,11 @@ To import existing projects into Git, follow these steps using the command line:
   -git add LICENSE
   -git commit -m “any message here”
 
+### Structure
+The local Git repository has three components:
+1. Working Directory(the actual files reside here)
+2. Index (staging area)
+3. Head(the most recent save)
+
 
 [Download Git](http://git-scm.com/download/win) | [Download Github Desktop](http://windows.github.com/) | [GUI Clients](https://git-scm.com/downloads/guis)
