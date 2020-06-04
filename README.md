@@ -6,27 +6,11 @@ Hey, my name is [Kyle](https://github.com/AtkinsonKyle), and I'm in the new 102 
 > "Every champion was once a contender who refused to give up." <br>
       -Rocky Balboa
 
-## Growth Mindset
-A growth mindset is one that is always learning! Making mistakes doesn't have to be a bad thing, it should encourage you to keep charging forward.
-
-### Keeping myself in a growth mindset
-1. Keep trying until I get it right.
-1. I should learn something new everyday.
-1. Always remember, success is the journey, not the destination.
-
-
-## Markdown Notes
-Markdown is a light weight markup language for authoring readable, functional code on the fly
-- "`#`"  level one heading
-- "`###`"  level three heading
-
-
-### Multiple Bullets, One List
-- **this text is _important_**
-- ***"`***`"  is bold and italicized***
-- "`~~`" ~~is deleted~~
-- "`* *`"  *is italic* 
-- **"`**`"  is bold**
+## Table of Contents
+- [Growth Mindset](Growth-Mindset.md)
+- [Markdown Notes](Markdown-Notes.md)
+- [Coder's Computer](coders-computer.md)
+- [The Basic Git](the-basics.md)
 
 [Check out what I've learned!](https://github.com/AtkinsonKyle/learning-journal)
 
