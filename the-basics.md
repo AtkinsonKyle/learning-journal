@@ -24,9 +24,18 @@ To confirm that you have the correct settings, enter the following command:
 - git config --global user.name (should return Jane Smith)
 - git config --global user.email (should return example@email.com)
 
-## 
+## Repositories For Beginners
+
 ### Importing
 To import existing projects into Git, follow these steps using the command line:
+1. Switch to your project’s directory
+  - cd test
+2. Use the git init command
+  - git init
+3. To start tracking these repository files, perform an initial commit by typing the following:
+  - git add *.c
+  -git add LICENSE
+  -git commit -m “any message here”
 
 
 [Download Git](http://git-scm.com/download/win) | [Download Github Desktop](http://windows.github.com/) | [GUI Clients](https://git-scm.com/downloads/guis)
