@@ -24,5 +24,9 @@ To confirm that you have the correct settings, enter the following command:
 - git config --global user.name (should return Jane Smith)
 - git config --global user.email (should return example@email.com)
 
+## 
+### Importing
+To import existing projects into Git, follow these steps using the command line:
+
 
 [Download Git](http://git-scm.com/download/win) | [Download Github Desktop](http://windows.github.com/) | [GUI Clients](https://git-scm.com/downloads/guis)
