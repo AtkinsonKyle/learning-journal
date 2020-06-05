@@ -11,6 +11,7 @@ Hey, my name is [Kyle](https://github.com/AtkinsonKyle), and I'm in the new 102 
 - [Markdown Notes](Markdown-Notes.md)
 - [Coder's Computer](coders-computer.md)
 - [The Basic Git](the-basics.md)
+- [HTML Notes](HTML-notes.md)
 
 [Check out what I've learned!](https://github.com/AtkinsonKyle/learning-journal)
 
