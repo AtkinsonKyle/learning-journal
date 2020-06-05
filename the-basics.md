@@ -43,5 +43,6 @@ The local Git repository has three components:
 2. Index (staging area)
 3. Head(the most recent save)
 
+<br>
 
 [Download Git](http://git-scm.com/download/win) | [Download Github Desktop](http://windows.github.com/) | [GUI Clients](https://git-scm.com/downloads/guis)
