@@ -7,7 +7,7 @@
 - DOCTYPES tell browsers which version of HTML you are using
 
 ## Basic Elements
-> Most elements are opened and closed using brackets '<>'
+> Elements are opened and most are closed using brackets '<>'
 - 'p' 
     - Begins a paragraph
 - 'br' 
