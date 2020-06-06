@@ -30,4 +30,5 @@ p {
 <hr>
 <h2>Notes</h2>
 - Can have a parent, child, sibling code
-    - header > nav > ul > li
+<br>
+header > nav > ul > li
