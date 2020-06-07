@@ -31,7 +31,8 @@ p {
     <li>Universal</li>
     <li>Class</li>
     <li>ID</li>
-    </ul>
+    
+</ul>
 
 <hr>
 <h2>Notes</h2>
