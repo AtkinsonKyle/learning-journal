@@ -1,5 +1,4 @@
 # What Makes a Computer a Computer?
-- input, store info, process, output
 <hr>
 <br>
 
