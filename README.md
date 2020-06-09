@@ -17,6 +17,7 @@ Hey, my name is [Kyle](https://github.com/AtkinsonKyle), and I'm in the new 102 
 - [CSS Notes](CSS-Notes.md)
 - [Javascript Notes](javascript-notes.md)
 - [What is a Computer?](working-pc.md)
+- [Programming with Javascript](program.md)
 
 
 [Check out my site!](https://atkinsonkyle.github.io/learning-journal/)
