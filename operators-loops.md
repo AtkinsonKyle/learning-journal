@@ -63,3 +63,27 @@ for (var i = 0; i < 10; i++) {
 - "for (var i = 0; i < 10; i++) = condition(counter)
 
 ## Loop Counters
+> A "for" loop uses a counter as a condition. This tells the code to run a specified amount of times. Below you'll see the condition is made up of three statements:
+- Initialization
+    - var i = 0;
+    - Create a variable and set it to 0. This variable is called i, and acts as the counter.
+- Condition
+    - i < 10
+    - The will run until it hits a specified number.
+- Update
+    - i++
+    - Every time the loop runs the content in the curly brackets it adds one to the counter.
+
+## While Loops
+<pre>
+
+- var i = 1;     //Set counter to 1
+- var msg = '';  //Message
+// Store 5x table in a variable
+while (i < 10) {
+    msg += i + ' x 5 = ' + (i * 5) + '<br>';
+    i++;
+}
+document.getElementById('answer').innerHTML = msg;
+
+</pre>
