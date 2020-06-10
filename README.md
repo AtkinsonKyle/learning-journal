@@ -18,13 +18,7 @@ Hey, my name is [Kyle](https://github.com/AtkinsonKyle), and I'm in the new 102 
 - [Javascript Notes](javascript-notes.md)
 - [What is a Computer?](working-pc.md)
 - [Programming with Javascript](program.md)
+- [Operators and Loops](operators-loops.md)
 
 
 [Check out my site!](https://atkinsonkyle.github.io/learning-journal/)
-
-<pre><address>
-Created by World Health Organization
-Copyright @2020
-1725 Slough Drive
-Scranton, PA, 18505
-</address></pre>
